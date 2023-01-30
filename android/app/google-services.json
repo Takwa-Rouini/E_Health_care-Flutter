@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516031099311",
+    "project_id": "natural-cistern-365213",
+    "storage_bucket": "natural-cistern-365213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516031099311:android:e87d478f52af99fee63f5a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516031099311-2qj50stl0aujettl3jvvfhur304vbeso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVz6svP9VY_3lf8CR17SEa_aNF1RRUNms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516031099311-2qj50stl0aujettl3jvvfhur304vbeso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
